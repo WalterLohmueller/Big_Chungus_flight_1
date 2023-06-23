@@ -1,5 +1,13 @@
 /* Written by Walter Lohmueller
+Things to do:
+Debug Quaternion code (low priority)
+Add main and drouge parachute deployment capabilities
+Add more robust launch detect
+Add telemetry transmission
+Add a GPS module
+
 */
+
 //////SENSOR LIBRARIES///////////
 #include <SPI.h>
 
